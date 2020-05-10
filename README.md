@@ -1,10 +1,10 @@
-# InkedSL
-Inked ShadowLands
+# InkedSV
+Inked Shadow Vaults
 
 This is Inked as being prepared for ShadowLands.
 
 ********* Delete Any Previos Versions ***************
-	Inked is a User Interface replacement for World Of Warcraft RETAIL ONLY!!!
+Inked is a User Interface replacement for World Of Warcraft RETAIL ONLY!!!
 
 	There are updates almost every night of the week
 
