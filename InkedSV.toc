@@ -1,0 +1,20 @@
+## Interface: 80300
+## Author: keivamp
+## Version: 0.0.1 Release
+## Title: |cffFF9900Inked: |r|cff00FF00SV (Shadow Vaults)|r
+## Notes: Inked [|cff00FF00 Shadow Vaults Version|r].
+## SavedVariables: InkedSV_DB
+## SavedVariablesPerCharacter: InkedSV_Char
+## X-Author-Server: Aeriee Peak
+## X-Author-Faction: Alliance
+## X-Author-Guild: <S H E I L D>
+## X-Copyright: Copyright (c) 2019 - 2020 keivamp and the Inked! Discord
+## X-Name: Inked!
+## X-Website : https://twitter.com/keivamp1
+## X-Twitch : https://www.twitch.tv/keivamp 
+## X-FaceBook : https://www.facebook.com/keivamp/ 
+## X-Instagram : https://www.instagram.com/keivamp/
+## X-Schema: SHadowVaults
+## X-Email: keivamp@yahoo.com
+## X-License: MIT
+## X-Category: Interface Enhancements
