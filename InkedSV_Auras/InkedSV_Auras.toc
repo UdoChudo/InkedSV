@@ -1,0 +1,14 @@
+## Interface: 80300
+## Author: keivamp
+## Version: 0.0.1 Release
+## Title: |cffFF9900Inked Shadow Vaults: |r|cffFFEF00Auras|r
+## Notes: Aura Plugin for [|cff9911FFInkedSV|r].
+## OptionalDeps: LibSharedMedia-3.0
+## RequiredDeps: InkedSV
+## X-Name: Auras
+## X-Schema: Auras
+## X-Email: keivamp@yahoo.com
+## X-License: MIT
+## X-Category: Interface Enhancements
+
+InkedSV_Auras.xml

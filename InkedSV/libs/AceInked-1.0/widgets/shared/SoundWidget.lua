@@ -4,7 +4,7 @@
 local AceGUI = LibStub("AceGUI-3.0")
 local Media = LibStub("LibSharedMedia-3.0")
 
-local AceInked = LibStub("Aceinked-1.0")
+local AceInked = LibStub("AceInked-1.0")
 
 do
 	local widgetType = "LSM30_Sound"

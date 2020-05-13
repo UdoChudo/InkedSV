@@ -1,0 +1,16 @@
+## Interface: 80300
+## Author: keivamp
+## Version:  0.0.1 Release
+## Title: |cffFF9900Inked Shadow Vaults: |r|cffFFEF00Skins|r
+## Notes: InkedSV [|cff9911FFSkins System and AddOn Frames|r].
+## SavedVariables: InkedSV_STYLE_GLOBAL
+## SavedVariablesPerCharacter: InkedSV_STYLE_PROFILE, InkedSV_STYLE_PRIVATE
+## RequiredDeps: InkedSV
+## OptionalDeps: LibSharedMedia-3.0
+## X-Name: Skins
+## X-Schema: Skins
+## X-Email: keivamp@yahoo.com
+## X-License: MIT
+## X-Category: Interface Enhancements
+
+InkedSV_Skins.xml

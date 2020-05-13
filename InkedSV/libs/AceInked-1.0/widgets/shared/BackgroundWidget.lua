@@ -22,7 +22,7 @@ do
 		local self = this.obj
 		self:Fire("OnValueChanged", this.text:GetText())
 		if self.dropdown then
-			self.dropdown = AceVillain:ReturnDropDownFrame(self.dropdown)
+			self.dropdown = AceInked:ReturnDropDownFrame(self.dropdown)
 		end
 	end
 
@@ -147,11 +147,11 @@ do
 	local function ToggleDrop(this)
 		local self = this.obj
 		if self.dropdown then
-			self.dropdown = AceVillain:ReturnDropDownFrame(self.dropdown)
+			self.dropdown = AceInked:ReturnDropDownFrame(self.dropdown)
 			AceGUI:ClearFocus()
 		else
 			AceGUI:SetFocus(self)
-			self.dropdown = AceVillain:GetDropDownFrame()
+			self.dropdown = AceInked:GetDropDownFrame()
 			local width = self.frame:GetWidth()
 			self.dropdown:SetPoint("TOPLEFT", self.frame, "BOTTOMLEFT")
 			self.dropdown:SetPoint("TOPRIGHT", self.frame, "BOTTOMRIGHT", width < 160 and (160 - width) or 0, 0)
@@ -176,14 +176,14 @@ do
 
 	local function ClearFocus(self)
 		if self.dropdown then
-			self.dropdown = AceVillain:ReturnDropDownFrame(self.dropdown)
+			self.dropdown = AceInked:ReturnDropDownFrame(self.dropdown)
 		end
 	end
 
 	local function OnHide(this)
 		local self = this.obj
 		if self.dropdown then
-			self.dropdown = AceVillain:ReturnDropDownFrame(self.dropdown)
+			self.dropdown = AceInked:ReturnDropDownFrame(self.dropdown)
 		end
 	end
 
@@ -203,7 +203,7 @@ do
 	end
 
 	local function Constructor()
-		local frame = AceVillain:GetBaseFrameWithWindow()
+		local frame = AceInked:GetBaseFrameWithWindow()
 		local self = {}
 
 		self.type = widgetType

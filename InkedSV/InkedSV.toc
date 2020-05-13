@@ -1,6 +1,6 @@
 ## Interface: 80300
 ## Author: keivamp
-## Version: 0.0.1 Release
+## Version: 1.2.1 
 ## Title: |cffFF9900Inked: |r|cff00FF00SV (Shadow Vaults)|r
 ## Notes: Inked [|cff00FF00 Shadow Vaults Version|r].
 ## SavedVariables: InkedSV_Global, InkedSV_Errors, InkedSV_Filters, InkedSV_Media, InkedSV_Shared

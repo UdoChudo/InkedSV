@@ -1,0 +1,16 @@
+## Interface: 80300
+## Author: keivamp
+## Version: 0.0.1 Release
+## Title: |cffFF9900Inked Shadow Vaults: |r|cffFFEF00Inventory|r
+## Notes: Inventory Plugin for [|cff9911FFInkedSV|r].
+## SavedVariables: InkedSV_LootCache
+## SavedVariablesPerCharacter: InkedSV_Private_LootCache
+## RequiredDeps: InkedSV
+## OptionalDeps: LibSharedMedia-3.0
+## X-Name: Inventory
+## X-Schema: Inventory
+## X-Email: keivamp@yahoo.com
+## X-License: MIT
+## X-Category: Interface Enhancements
+
+InkedSV_Inventory.xml

@@ -1,0 +1,15 @@
+## Interface: 80300
+## Author: keivamp
+## Version: 0.0.1 Release
+## Title: |cffFF9900Inked Shadow Vaults: |r|cffFFEF00UnitFrames|r
+## Notes: UnitFrames Plugin for [|cff9911FFInkedSV|r].
+## OptionalDeps: LibSharedMedia-3.0
+## RequiredDeps: InkedSV
+## X-Name: UnitFrames
+## X-Schema: UnitFrames
+## X-oUF: oUF_InkedSV
+## X-Email:keivamp@yahoo.com
+## X-License: MIT
+## X-Category: Interface Enhancements
+
+InkedSV_UnitFrames.xml

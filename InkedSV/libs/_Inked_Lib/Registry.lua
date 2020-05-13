@@ -964,7 +964,7 @@ local Core_NewPackage = function(self, schema, header)
     if(not MODULES) then MODULES = {} end
     MODULES[#MODULES+1] = schema
 
-    local addonName = ("SVUI [%s]"):format(schema)
+    local addonName = ("InkedSV [%s]"):format(schema)
 
     local obj = {
         NameID              = addonName,
@@ -1024,7 +1024,7 @@ local Core_NewModule = function(self, addonName, addonObject, gfile, pfile)
     addonmeta.__tostring = rootstring
     setmetatable( addonObject, addonmeta )
 
-    local packageName = ("SVUI [%s]"):format(schema)
+    local packageName = ("InkedSV [%s]"):format(schema)
 
     addonObject.Version             = version
     addonObject.NameID              = packageName

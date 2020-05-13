@@ -1,0 +1,4 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file='InkedSV_Options.lua'/>
+	<Script file='UnitFrames.lua'/>
+</Ui>
